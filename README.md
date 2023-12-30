@@ -5,7 +5,7 @@ This Flutter app is a simple to-do list application designed to help users to ma
 ## Installation
 
 1. *Clone Repository:*
-   git clone https://github.com/your-username/todo-flutter.git
+   git clone https://github.com/hirensakhiya/ToDoList_Flutter.git
    cd todo-flutter
 
 Install Dependencies:
